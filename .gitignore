@@ -1,0 +1,18 @@
+# Compiled files
+*.o
+*.obj
+kernel.bin
+
+# ISO files
+*.iso
+isodir/
+
+# Editor files
+*~
+*.swp
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

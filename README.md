@@ -50,5 +50,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 
 
 =========================================
-I AM NOT RESPONSABLE IF ANY THING BREAKS .
+     I AM NOT RESPONSABLE IF ANY THING BREAKS .
 ==========================================

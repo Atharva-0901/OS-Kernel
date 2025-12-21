@@ -6,22 +6,6 @@
    Simple OS Kernel v1.0
 ========================================
 
-I made a kernel with features :-
--VGA 
--GDT
--IDT
--Basic ISR Handling
-
-To execute you need :-
---To Install.->
--sudo apt install build-essential nasm grub-pc-bin grub-common xorriso qemu-system-x86
-
--make
-
--make iso
-
--make run
-
 License.->
 This project is licensed under the MIT License.
 IT License

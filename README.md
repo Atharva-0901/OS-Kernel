@@ -6,5 +6,3 @@ References and Resources.-
 - [Multiboot Specification](https://www.gnu.org/software/grub/manual/multiboot/)
 - [NASM Documentation](https://www.nasm.us/docs.php)
 
-
-Please Mention Me if using my work.
